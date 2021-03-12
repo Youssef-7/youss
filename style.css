@@ -1,0 +1,91 @@
+
+body
+{
+background: url("image_site/10.png")  no-repeat top right, url("image_site/11.jpg") fixed;
+
+
+}
+
+p
+{
+font-size: 1em ;
+
+font-family: arial;
+
+font-style: oblique;
+
+font-weight: bold;
+
+text-align: justify;
+
+text-shadow: 7px 7px 8px black;
+
+border: solid 1px blue; 
+
+width: 50%;
+padding: 25px;
+margin: auto;
+margin-top: 20px;
+overflow: scroll;
+word-wrap: break-word;
+
+
+
+
+}
+
+
+h1,h2
+
+{
+	font-size: xx-large;
+	color: rgb(108,204,166);
+	background-color: blue;
+	border-radius: 10px 5px 10px 5px;
+	box-shadow: 8px 8px 7px black;
+	width: 50%;
+	padding: 25px;
+	margin-right : 55px;
+	
+}
+
+mark
+{
+font-weight: bold;
+color: green;
+background-color: black;
+}
+
+
+.salut
+{
+
+	color: red;
+}
+
+.flotte
+{
+	clear: both;
+}
+
+
+a:hover
+{
+color: green;
+}
+
+a:active
+{
+color: black;
+}
+
+a:focus
+{
+background:black;
+
+}
+a:visited
+{
+color: green
+
+}
